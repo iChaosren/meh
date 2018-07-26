@@ -1,0 +1,24 @@
+{
+  "name": "meh",
+  "version": "1.0.0",
+  "description": "Cause... Meh... ¯\\_(ツ)_/¯",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iChaosren/meh.git"
+  },
+  "keywords": [
+    "ascii",
+    "meh",
+    "art"
+  ],
+  "author": "Clayton Barnard",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iChaosren/meh/issues"
+  },
+  "homepage": "https://github.com/iChaosren/meh#readme"
+}
